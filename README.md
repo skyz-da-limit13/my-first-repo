@@ -1,28 +1,27 @@
-# This is a large heading
+# John Dough
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the Hamptons with Beyonce, in the united states of america
 
-- This is
-- an unordered
-- list
+### Sports
 
-1. This is
-2. an ordered
-3. list
+I play the following sports:
 
-Here is `some code` in the middle of a sentence.
+- *Basketball
+- *Soccer
+- *Naked water polo
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I'm on a diet that includes:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Pizza
+2. Sex
+3. Cigarettes
+
+### Contact
+
+I'm usually unreachable, but try this website [on site](http://espn.com).
+
+
