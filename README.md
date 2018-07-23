@@ -10,15 +10,12 @@ I play the following sports:
 
 - *Basketball
 - *Soccer
-- *Naked water polo
 
 ### Food
 
-I'm on a diet that includes:
+My favorite meal is:
 
-1. Pizza
-2. Sex
-3. Cigarettes
+1. Fried Chicken, Collard Greens, with mac-n-cheese
 
 ### Contact
 
